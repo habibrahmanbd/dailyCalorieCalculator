@@ -1,5 +1,5 @@
 ## Daily Calorie Calculator
-A Java Desktop Application to calculate daily Life Calorie to live an healthy and happiest life.
+A Java Desktop Application to calculate daily Life Calorie earn and burn.
 
 ## Features
  - Calorie are in list
